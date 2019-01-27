@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>img14.png</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\img14.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>644</xmin>
+			<ymin>627</ymin>
+			<xmax>785</xmax>
+			<ymax>681</ymax>
+		</bndbox>
+	</object>
+</annotation>
